@@ -1,4 +1,3 @@
-# variousSortingAlgorithms
 # 🧠 Sorting Algorithms in Python
 
 ## 📌 What I did today
